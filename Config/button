@@ -1,0 +1,41 @@
+Заполняйте кнопки подряд и давайте уникальные имена!!!
+
+[But_0]
+Name="Диспетчер устройств"
+left=10
+top=20
+width=120
+height=25
+CMD = 'devmgmt.msc'
+
+[But_1]
+Name="Сервисы"
+left=140
+top=20
+width=120
+height=25
+CMD = 'services.msc'
+
+[But_2]
+Name="Настройка системы"
+left=270
+top=20
+width=120
+height=25
+CMD = 'msconfig'
+
+[But_3]
+Name="Управление"
+left=10
+top=50
+width=120
+height=25
+CMD = 'compmgmt.msc'
+
+[But_4]
+Name="Общие папки"
+left=140
+top=50
+width=120
+height=25
+CMD = 'fsmgmt.msc'
